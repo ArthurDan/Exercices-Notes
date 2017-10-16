@@ -4,17 +4,18 @@ import java.io.File;
 import java.util.Scanner;
 
 public class Extension {
-    private String initialpath = "";
-    public String ext;
-    public boolean empty = false;
+     String initialpath = "";
+     String ext;
+     int filecount = 0;
+     boolean empty = false;
 
     public Extension(String path, String extension) {
-        this.initialpath = path;
-        this.ext=extension;
+        initialpath = path;
+        ext=extension;
     }
 
     public void list() {
-        this.listDirectory(this.initialpath, this.ext);
+        listDirectory(initialpath, ext);
     }
 
     private void listDirectory(String dir,String ext) {
@@ -24,6 +25,7 @@ public class Extension {
             for (int i = 0; i < files.length; i++) {
                 if (files[i].isFile() == true && files[i].getName().endsWith(ext) ) {
                     System.out.println("  Fichier: " + files[i].getName());
+                    this.filecount++;
                     empty = true;
                 }
             }
@@ -36,12 +38,13 @@ public class Extension {
     public static void main(String[] args) {
         System.out.println("Entrez un chemin d'accès : ");
         Scanner sc = new Scanner(System.in);
-        String pathToExplore =   sc.nextLine();
+        String pathToExplore = sc.nextLine();
         System.out.println("Entrez une extension ");
-        String ext =   sc.nextLine();
+        String ext = sc.nextLine();
         Extension diskFileExplorer = new Extension(pathToExplore, ext);
-        diskFileExplorer.list();
-        System.out.println("----------");
         System.out.println("Analyse de " + pathToExplore);
+        diskFileExplorer.list();
+        System.out.println(diskFileExplorer.filecount + " fichiers avec l'extension " + ext + ".");
+
     }
 }

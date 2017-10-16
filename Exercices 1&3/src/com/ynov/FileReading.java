@@ -5,23 +5,23 @@ import java.util.Scanner;
 
 public class FileReading {
 
-    private String initialpath = "";
-    public int filecount = 0;
-    public boolean empty = false;
+    String initialpath = "";
+    int filecount = 0;
+    boolean empty = false;
 
     public FileReading(String path) {
-        this.initialpath = path;
+        initialpath = path;
     }
 
     public void list() {
-        this.listDirectory(this.initialpath);
+        listDirectory(initialpath);
     }
 
     private void listDirectory(String dir) {
         File file = new File(dir);
         File[] files = file.listFiles();
         if (file.isDirectory()) {
-            System.out.println("Dossier");
+            System.out.println(dir + " est un dossier");
             for (int i = 0; i < files.length; i++) {
                 if (files[i].isFile() == true) {
                     System.out.println("  Fichier: " + files[i].getName());
@@ -31,7 +31,7 @@ public class FileReading {
             }
             if (empty==false)System.out.println("Il n'y a pas de fichiers dans le répertoire donné!");
         }
-        else if(file.isFile())System.out.println("C'est un fichier");
+        else if(file.isFile())System.out.println(dir + " est un fichier");
         else{
             System.out.println("Chemin incorrect !");
         }
@@ -42,9 +42,8 @@ public class FileReading {
         String str =   sc.nextLine();
         String pathToExplore = str;
         FileReading diskFileExplorer = new FileReading(pathToExplore);
-        diskFileExplorer.list();
-        System.out.println("----------");
         System.out.println("Analyse de " + pathToExplore);
+        diskFileExplorer.list();
         System.out.println(diskFileExplorer.filecount + " fichiers");
     }
 }

@@ -15,11 +15,9 @@
       <file leaf-file-name="CopyFile.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercice 6/src/com/ynov/CopyFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -27,11 +25,9 @@
       <file leaf-file-name="WriteFolder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercice 4/src/com/ynov/WriteFolder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -39,18 +35,18 @@
       <file leaf-file-name="FileReading.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercices 1&amp;3/src/com/ynov/FileReading.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="44" />
+            <state relative-caret-position="489">
+              <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Extension.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Extension.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercice 2/src/com/ynov/Extension.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="32" column="53" lean-forward="false" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+            <state relative-caret-position="289">
+              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,10 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImgDist.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImgDist.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercice 7/src/com/ynov/ImgDist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
+            <state relative-caret-position="544">
               <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
@@ -77,6 +73,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -85,12 +84,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercices 1&amp;3/src/com/ynov/FileReading.java" />
         <option value="$PROJECT_DIR$/Exercice 6/src/com/ynov/EtudiantT.java" />
-        <option value="$PROJECT_DIR$/Exercice 6/src/com/ynov/CopyFile.java" />
-        <option value="$PROJECT_DIR$/Exercice 2/src/com/ynov/Extension.java" />
-        <option value="$PROJECT_DIR$/Exercice 4/src/com/ynov/WriteFolder.java" />
         <option value="$PROJECT_DIR$/Exercice 7/src/com/ynov/ImgDist.java" />
+        <option value="$PROJECT_DIR$/Exercice 6/src/com/ynov/CopyFile.java" />
+        <option value="$PROJECT_DIR$/Exercice 4/src/com/ynov/WriteFolder.java" />
+        <option value="$PROJECT_DIR$/Exercices 1&amp;3/src/com/ynov/FileReading.java" />
+        <option value="$PROJECT_DIR$/Exercice 2/src/com/ynov/Extension.java" />
       </list>
     </option>
   </component>
@@ -99,6 +98,7 @@
     <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -124,6 +124,11 @@
             <path>
               <item name="Exercices Notés" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercices Notés" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercices Notés" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercices Notés" type="462c0819:PsiDirectoryNode" />
               <item name="Exercice 7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -139,6 +144,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ynov" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Exercices Notés" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercices Notés" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercices 1&amp;3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercices Notés" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercices Notés" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercices 1&amp;3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercices Notés" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercices Notés" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercices 1&amp;3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ynov" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -151,6 +174,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -169,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ImgDist">
+  <component name="RunManager" selected="Application.Extension">
     <configuration name="CopyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -206,6 +230,25 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Exercice 2" />
+      <envs />
+    </configuration>
+    <configuration name="FileReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ynov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ynov.FileReading" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Exercices 1&amp;3" />
       <envs />
     </configuration>
     <configuration name="ImgDist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -327,18 +370,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Extension" />
       <item index="1" class="java.lang.String" itemvalue="Application.WriteFolder" />
       <item index="2" class="java.lang.String" itemvalue="Application.CopyFile" />
       <item index="3" class="java.lang.String" itemvalue="Application.ImgDist" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FileReading" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.ImgDist" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Extension" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CopyFile" />
-        <item index="3" class="java.lang.String" itemvalue="Application.WriteFolder" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Extension" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FileReading" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ImgDist" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CopyFile" />
+        <item index="4" class="java.lang.String" itemvalue="Application.WriteFolder" />
       </list>
     </recent_temporary>
   </component>
@@ -365,10 +410,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845187" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32845187" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845187" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -401,9 +446,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -411,56 +454,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice 6/src/com/ynov/EtudiantT.java" />
-    <entry file="file://$PROJECT_DIR$/Exercice 2/src/com/ynov/Extension.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="32" column="53" lean-forward="false" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice 4/src/com/ynov/WriteFolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice 6/src/com/ynov/CopyFile.java">
+    <entry file="file://$PROJECT_DIR$/Exercices 1&amp;3/Exercices 1&amp;3.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercices 1&amp;3/src/com/ynov/FileReading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="44" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice 7/src/com/ynov/ImgDist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
+        <state relative-caret-position="544">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 4/src/com/ynov/WriteFolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 6/src/com/ynov/CopyFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercices 1&amp;3/src/com/ynov/FileReading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice 2/src/com/ynov/Extension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
